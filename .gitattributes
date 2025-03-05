@@ -1,0 +1,8 @@
+# TypeScript files as text and normalize line endings
+*.ts text eol=lf
+
+# JSON files as text and normalize line endings
+*.json text eol=lf
+
+# Sound files as binary
+*.mp3 binary
